@@ -1,4 +1,4 @@
-🎮 PixelForge Studios - Landing Page
+🎮 PixelForge Studios - Landing Page:
 
 - Objetivo:
 
